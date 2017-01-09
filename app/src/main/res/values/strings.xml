@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GpsTracker</string>
+    <string name="noMapsInstalled">noMapsInstalled</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
